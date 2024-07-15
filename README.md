@@ -27,11 +27,13 @@
 ### Frontend
 
 1. **Navigate to the Frontend Directory**
+   Install node package
+    ```sh
+   cd frontend 
    ```sh
-   cd frontend
    npm install
    npm start
-2. **Navigate to the Backend Directory**
+3. **Navigate to the Backend Directory**
    ```sh
    cd backend
    mvn spring-boot:run
