@@ -4,24 +4,22 @@
 
    Download and install the latest JDK from the Oracle website or use OpenJDK.
    Set the JAVA_HOME environment variable.
-   sh
-   Copy code
+   ```sh
    java -version
-   Node.js and npm
+2. Node.js and npm
 
-Download and install the latest LTS version of Node.js from the official website.
-npm is included with Node.js.
-sh
-Copy code
-node -v
-npm -v
-Maven
+   Download and install the latest LTS version of Node.js from the official website.
+   npm is included with Node.js.
+   ```sh
+   node -v
+   npm -v
+3. Maven
 
-Download and install Maven from the Apache Maven website.
-Set the MAVEN_HOME environment variable.
-sh
-Copy code
-mvn -v
+   Download and install Maven from the Apache Maven website.
+   Set the MAVEN_HOME environment variable.
+   ```sh
+   mvn -v
+
 ## Project Setup
 
 ### Frontend
