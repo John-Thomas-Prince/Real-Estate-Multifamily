@@ -2,21 +2,23 @@
 ## Evironment Setup
 1. Java Development Kit (JDK)
 
-   Download and install the latest JDK from the Oracle website or use OpenJDK.
+   Download and install the latest JDK from the Oracle website(https://www.oracle.com/java/technologies/downloads/?er=221886) or use OpenJDK.
    Set the JAVA_HOME environment variable.
+   After install, Go to Edit System Environment Variables in Control Panel Window and in the system section, add this url(C:\Program Files\Java\jdk-17\bin) in the path variable. 
    ```sh
    java -version
-2. Node.js and npm
+3. Node.js and npm
 
    Download and install the latest LTS version of Node.js from the official website.
    npm is included with Node.js.
    ```sh
    node -v
    npm -v
-3. Maven
+4. Maven
 
-   Download and install Maven from the Apache Maven website.
+   Download and install Maven from the Apache Maven website(https://maven.apache.org/download.cgi).
    Set the MAVEN_HOME environment variable.
+   After install, Go to Edit System Environment Variables in Control Panel Window and in the system section, add this url(C:\Program Files\Apache\Maven\bin) in the path variable 
    ```sh
    mvn -v
 
