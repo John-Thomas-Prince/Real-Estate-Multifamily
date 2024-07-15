@@ -27,13 +27,15 @@
 ### Frontend
 
 1. **Navigate to the Frontend Directory**
-   Install node package
+
+   In frontend directory, install node package and run React UI.
     ```sh
    cd frontend 
-   ```sh
    npm install
    npm start
 3. **Navigate to the Backend Directory**
+   
+   In backend directory, install Java spring boot package and run server.
    ```sh
    cd backend
    mvn spring-boot:run
