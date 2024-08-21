@@ -1,4 +1,4 @@
-# Simple CRUD System(React + Java Spring Boot)
+# Simple CRUD System(React + Java Spring Boot - completed)
 ## Evironment Setup
 1. Java Development Kit (JDK)
 
